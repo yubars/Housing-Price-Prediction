@@ -1,0 +1,3 @@
+id,city,state,street,streetSuffix,zip,latitude,longitude,landUseDescription,zoningDescription,lotSizeAcres,lotSizeSquareFeet,lotTopography,condition,architecturalStyle,yearBuilt,totalStories,totalRooms,bedrooms,baths,heating,airConditioning,foundation,fireplace,soldYear
+108,Stone Mountain,GA,Dee,Ct,30087,33.857828,-84.167465,Single Family Residential,R100-Single Family Residence,0.41,17859.6,Level Grade,Average,Ranch/Rambler,1975,1,8,4,2,Forced air,Yes,Crawl Space/Raised,Masonry,2021
+113,Lilburn,GA,Georgetown,Trce,30047,33.873697,-84.15399,Single Family Residential,R100-Single Family Residence,0.54,23522.4,High Elevation,Average,Conventional,1980,2,8,4,3,Forced air,Yes,Crawl Space/Raised,Masonry,2021
